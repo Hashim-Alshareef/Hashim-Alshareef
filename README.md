@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 I'm Hashim!
 
-<!--
-**Hashim-Alshareef/Hashim-Alshareef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Computer Science Student at Imam Abdulrahman Bin Faisal University (IAU).
 
-Here are some ideas to get you started:
+Interested in **Algorithm Engineering, Combinatorial Optimization, and Performance Engineering.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What Drives My Interest
+
+As hardware improvements face growing physical and energy constraints, I believe some of the most meaningful advances in computing will come from making better use of the resources we already have.
+
+To me, computational efficiency is about more than speed. It's about reducing unnecessary work, making computing more accessible, and achieving more with less.
+
+I'm particularly interested in rethinking conventional approaches and exploring algorithmic solutions that improve real-world computational efficiency.
+
+### Current Focus
+
+Exploring algorithmic and performance optimization opportunities in open-source software.
